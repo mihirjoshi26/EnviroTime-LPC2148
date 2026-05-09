@@ -56,21 +56,21 @@ The project was developed as a complete hardware-software integration exercise, 
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│                   LPC2148 (ARM7TDMI-S)               │
-│                                                       │
+│                   LPC2148 (ARM7TDMI-S)              │
+│                                                     │
 │  ┌──────────┐  ┌──────────┐  ┌──────────────────┐   │
 │  │  Built-in│  │  10-bit  │  │   GPIO Port 0    │   │
 │  │   RTC    │  │   ADC    │  │  P0.0–P0.9 (LCD) │   │
 │  │(32.768kHz│  │ (AD0.1)  │  │  P0.10 (SW Edit) │   │
 │  │ crystal) │  │ P0.28    │  │  P0.11 (SW Alarm)│   │
 │  └────┬─────┘  └────┬─────┘  │  P0.12 (Buzzer)  │   │
-│       │              │        └──────────────────┘   │
-│       │              │        ┌──────────────────┐   │
-│       ▼              ▼        │   GPIO Port 1    │   │
-│  RTC registers   LM35 sensor  │  P1.16–P1.19 COL │   │
-│  SEC/MIN/HOUR    temperature  │  P1.20–P1.23 ROW │   │
-│  DOM/DOW/MONTH   reading      └──────────────────┘   │
-│  YEAR                                                 │
+│       │              │       └──────────────────┘   │
+│       │              │        ┌──────────────────┐  │
+│       ▼              ▼        │   GPIO Port 1    │  │
+│  RTC registers   LM35 sensor  │  P1.16–P1.19 COL │  │
+│  SEC/MIN/HOUR    temperature  │  P1.20–P1.23 ROW │  │
+│  DOM/DOW/MONTH   reading      └──────────────────┘  │
+│  YEAR                                               │
 └─────────────────────────────────────────────────────┘
          │                │              │
          ▼                ▼              ▼
