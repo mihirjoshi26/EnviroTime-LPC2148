@@ -86,13 +86,15 @@ The project was developed as a complete hardware-software integration exercise, 
 
 ### Proteus Simulation
 
-| Home Screen | 
-|:-----------:|
-| ![Home Screen Simulation](<img width="1077" height="749" alt="image" src="https://github.com/user-attachments/assets/8eead7b5-a663-44f4-b280-7895cf1aca3e" />) |
-
-| RTC Edit Menu |
-|:-------------:|
-| ![RTC Edit Menu](<img width="1079" height="746" alt="image" src="https://github.com/user-attachments/assets/b10975ea-6bbe-46ef-9f66-3f90751de0b3" />) |
+| Home Screen | Alarm Active |
+|:-----------:|:------------:|
+| ![Home Screen Simulation](<img width="1077" height="749" alt="image" src="https://github.com/user-attachments/assets/95dc5f7b-0187-4576-a5b9-f6c288552446" />
+) | ![Alarm Active Simulation](images/proteus/alarm_active.png) |
+ 
+| RTC Edit Menu | Temperature Display |
+|:-------------:|:-------------------:|
+| ![RTC Edit Menu](<img width="1079" height="746" alt="image" src="https://github.com/user-attachments/assets/5afd80b8-7be9-4dad-a25f-f527e9d0d940" />
+) | ![Temperature Display](images/proteus/temperature.png) |
 
 > Add more Proteus screenshots to `images/proteus/` and update the table above.
 
