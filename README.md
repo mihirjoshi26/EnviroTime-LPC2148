@@ -1,6 +1,6 @@
 # EnviroTime — Embedded Real-Time Clock & Environment Monitor
 
-> A bare-metal embedded systems project built on the **NXP LPC2148 ARM7TDMI-S** microcontroller, implementing a real-time clock display, multi-alarm management, ambient temperature monitoring, and a password-protected configuration menu — all driven without an operating system.
+> A Embedded systems project built on the **NXP LPC2148 ARM7TDMI-S** microcontroller, implementing a real-time clock display, multi-alarm management, ambient temperature monitoring, and a password-protected configuration menu — all driven without an operating system.
 
 ---
 
@@ -168,7 +168,7 @@ The project was developed as a complete hardware-software integration exercise, 
 
 ## Software Architecture
 
-The firmware is written in **bare-metal ANSI C** (C99 compatible) and compiled with **Keil MDK-ARM** at **Optimization Level 0** (required to prevent the busy-wait delay loops from being optimised away).
+The firmware is written in ** ANSI C** (C99 compatible) and compiled with **Keil MDK-ARM** at **Optimization Level 0** (required to prevent the busy-wait delay loops from being optimised away).
 
 ### Design Principles
 
@@ -376,7 +376,7 @@ Home Screen (normal display — updates every second)
 
 ## Project Outcomes
 
-- Successfully implemented a **fully functional real-time embedded system** on bare-metal ARM hardware
+- Successfully implemented a **fully functional real-time embedded system** on ARM hardware
 - Achieved **stable 1-second RTC updates** on the LCD using second-change detection to eliminate display flicker
 - Designed a **hierarchical menu system** navigable entirely via a 4×4 keypad with debounce, backspace, and input validation
 - Implemented a **multi-alarm system** (up to 5 alarms) with Add / Edit / Delete / View and ON/OFF toggling per alarm
@@ -450,4 +450,4 @@ EnviroTime/
 **Joshi Mihir**   
 ---
 
-*Built with: NXP LPC2148 · Keil MDK-ARM · ARM7TDMI-S · bare-metal C*
+*Built with: NXP LPC2148 · Keil MDK-ARM · ARM7TDMI-S · *
