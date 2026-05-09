@@ -88,12 +88,11 @@ The project was developed as a complete hardware-software integration exercise, 
 
 | Home Screen |
 |:-----------:|
-| ![Home Screen Simulation](<img width="1077" height="749" alt="image" src="https://github.com/user-attachments/assets/0d497fee-502b-493a-afa8-43f5020385b9" />) |
+| ![Home Screen Simulation](images/proteus/home_screen.png) |
  
-| RTC Edit Menu | 
+| RTC Edit Menu |
 |:-------------:|
-| ![RTC Edit Menu](<img width="1079" height="746" alt="image" src="https://github.com/user-attachments/assets/8da6eb60-fb4e-4233-8b66-b295fce75c5a" />) |
-
+| ![RTC Edit Menu](images/proteus/rtc_edit_menu.png) |
 > Add more Proteus screenshots to `images/proteus/` and update the table above.
 
 ---
