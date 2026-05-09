@@ -88,8 +88,7 @@ The project was developed as a complete hardware-software integration exercise, 
 
 | Home Screen | Alarm Active |
 |:-----------:|:------------:|
-| ![Home Screen Simulation](<img width="1077" height="749" alt="image" src="https://github.com/user-attachments/assets/95dc5f7b-0187-4576-a5b9-f6c288552446" />
-) | ![Alarm Active Simulation](images/proteus/alarm_active.png) |
+| ![Home Screen Simulation](img width="1077" height="749" alt="image" src="https://github.com/user-attachments/assets/95dc5f7b-0187-4576-a5b9-f6c288552446") | ![Alarm Active Simulation](images/proteus/alarm_active.png) |
  
 | RTC Edit Menu | Temperature Display |
 |:-------------:|:-------------------:|
