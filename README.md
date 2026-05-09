@@ -93,7 +93,6 @@ The project was developed as a complete hardware-software integration exercise, 
 | RTC Edit Menu |
 |:-------------:|
 | ![RTC Edit Menu](images/proteus/rtc_edit_menu.png) |
-> Add more Proteus screenshots to `images/proteus/` and update the table above.
 
 ---
 
@@ -101,13 +100,8 @@ The project was developed as a complete hardware-software integration exercise, 
 
 | Full Board Setup | LCD Close-up |
 |:----------------:|:------------:|
-| ![Full Board Setup](images/hardware/full_board.jpg) | ![LCD Close-up](images/hardware/lcd_closeup.jpg) |
+| ![Full Board Setup](images/hardware/full_board.jpeg) | ![LCD Close-up](images/hardware/lcd_closeup.jpeg) |
 
-| Keypad Wiring | LM35 + Buzzer Circuit |
-|:-------------:|:---------------------:|
-| ![Keypad Wiring](images/hardware/keypad_wiring.jpg) | ![LM35 and Buzzer](images/hardware/lm35_buzzer.jpg) |
-
-> Add hardware photos to `images/hardware/` and update the table above.
 
 ---
 
