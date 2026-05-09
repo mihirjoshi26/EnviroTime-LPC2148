@@ -9,6 +9,7 @@
 - [Project Overview](#project-overview)
 - [Key Features](#key-features)
 - [System Architecture](#system-architecture)
+- [Images](#images)
 - [Hardware Components](#hardware-components)
 - [Circuit Connections](#circuit-connections)
 - [Software Architecture](#software-architecture)
@@ -78,6 +79,38 @@ The project was developed as a complete hardware-software integration exercise, 
    HD44780            Sensor         Matrix
    8-bit mode
 ```
+
+---
+
+## Images
+
+### Proteus Simulation
+
+| Home Screen | 
+|:-----------:|
+| ![Home Screen Simulation](<img width="1077" height="749" alt="image" src="https://github.com/user-attachments/assets/8eead7b5-a663-44f4-b280-7895cf1aca3e" />
+) |
+
+| RTC Edit Menu |
+|:-------------:|
+| ![RTC Edit Menu](<img width="1079" height="746" alt="image" src="https://github.com/user-attachments/assets/b10975ea-6bbe-46ef-9f66-3f90751de0b3" />
+) |
+
+> Add more Proteus screenshots to `images/proteus/` and update the table above.
+
+---
+
+### Hardware
+
+| Full Board Setup | LCD Close-up |
+|:----------------:|:------------:|
+| ![Full Board Setup](images/hardware/full_board.jpg) | ![LCD Close-up](images/hardware/lcd_closeup.jpg) |
+
+| Keypad Wiring | LM35 + Buzzer Circuit |
+|:-------------:|:---------------------:|
+| ![Keypad Wiring](images/hardware/keypad_wiring.jpg) | ![LM35 and Buzzer](images/hardware/lm35_buzzer.jpg) |
+
+> Add hardware photos to `images/hardware/` and update the table above.
 
 ---
 
